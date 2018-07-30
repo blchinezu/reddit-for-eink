@@ -3,6 +3,8 @@ A web page that reads /r/WritingPrompts and shows it in a readable format for eI
 
 #### Available @ [writingprompts.duckdns.org](http://writingprompts.duckdns.org/)
 
+--------------------------------------------------------------------------------
+
 #### How it works
 
  - Get the required reddit page
@@ -10,19 +12,27 @@ A web page that reads /r/WritingPrompts and shows it in a readable format for eI
  - Replace all the links so that they'll be passed through the custom parser if clicked
  - Show the page with custom CSS
 
+--------------------------------------------------------------------------------
+
 #### Privacy
 
 You won't be able to login, comment and such things so you shouldn't worry about privacy stuff. This is made purely for reading purpose.
 
+--------------------------------------------------------------------------------
+
 #### Note
 
 This will work with other subreddits too but there will probably be glitches. That's because I've made it primarly for /r/WritingPrompts. It shouldn't be difficult to adapt it for other subreddits though. Most of the changes would be in the CSS file.
+
+--------------------------------------------------------------------------------
 
 ### Comparison screenshots:
 
 ![Main page screenshot - before & after](https://raw.githubusercontent.com/blchinezu/eink-reddit-writing-prompts/master/images/dash-screen.png)
 
 ![Story page screenshot - before & after](https://raw.githubusercontent.com/blchinezu/eink-reddit-writing-prompts/master/images/story-screen.png)
+
+--------------------------------------------------------------------------------
 
 ### Using it with Kobo Aura One:
 
