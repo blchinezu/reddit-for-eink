@@ -10,6 +10,8 @@ class reddit4eink {
     private $_sPageContent = '[ No page content ]';
     private $_sPageLocation = 'unknown';
 
+    private $_sMyURL = 'http://writingprompts.duckdns.org?url=';
+
     public function __construct($sUrl = '') {
 
         $this->_sUrl = $sUrl;
@@ -75,13 +77,13 @@ class reddit4eink {
             '/href="([^"]+)"/i',
             function ($matches) {
                 if( strpos($matches[1], 'http://old.reddit.com') === 0 )
-                    return 'href="http://brucelee.duckdns.org/rwp/?url='.urlencode($matches[1]).'"';
+                    return 'href="'.$this->_sMyURL.urlencode($matches[1]).'"';
                 elseif( strpos($matches[1], 'https://old.reddit.com') === 0 )
-                    return 'href="http://brucelee.duckdns.org/rwp/?url='.urlencode($matches[1]).'"';
+                    return 'href="'.$this->_sMyURL.urlencode($matches[1]).'"';
                 elseif( strpos($matches[1], '/') === 0 )
-                    return 'href="http://brucelee.duckdns.org/rwp/?url='.urlencode('http://old.reddit.com'.$matches[1]).'"';
+                    return 'href="'.$this->_sMyURL.urlencode('http://old.reddit.com'.$matches[1]).'"';
                 else
-                    return 'href="http://brucelee.duckdns.org/rwp/?url='.urlencode('http://old.reddit.com/'.$matches[1]).'"';
+                    return 'href="'.$this->_sMyURL.urlencode('http://old.reddit.com/'.$matches[1]).'"';
             },
             $sHtml
             );
