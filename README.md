@@ -1,4 +1,4 @@
-# reddit-writing-prompts
+# eink-reddit-writing-prompts
 A web page that reads /r/WritingPrompts and shows it in a readable format for eInk devices.
 
 #### Available @ [writingprompts.duckdns.org](http://writingprompts.duckdns.org/)
