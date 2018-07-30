@@ -1,7 +1,7 @@
 # reddit-writing-prompts
 A web page that reads /r/WritingPrompts and shows it in a readable format for eInk devices.
 
-#### Working page @ [brucelee.duckdns.org/rwp](http://brucelee.duckdns.org/rwp/)
+#### Working page @ [writingprompts.duckdns.org](http://writingprompts.duckdns.org/)
 
 ### Main page screenshots:
 
