@@ -1,0 +1,5 @@
+# Options +FollowSymLinks
+# RewriteEngine On
+
+# RewriteRule ^index.php?url=(.*)$ index.php?url=$1 [L]
+# RewriteRule ^(.*)$ index.php?url=$1 [L]

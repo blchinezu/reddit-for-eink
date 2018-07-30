@@ -1,0 +1,157 @@
+
+html,body {
+    font-size: 20px;
+    text-align: justify;
+    padding: 0 5px;
+}
+
+.midcol.unvoted,
+.share,
+.thing.linkflair.linkflair-flairot,
+.entry .flat-list.buttons > :not(.first),
+.score.dislikes,
+.score.likes,
+.entry .title .domain,
+.infobar.commentsignupbar,
+.linkflairlabel,
+.panestack-title,
+body.location_comments #mainMenu,
+a.thumbnail.may-blank,
+.tagline .flair,
+.comment.noncollapsed.score-hidden.stickied.thing,
+a.expand,
+p.parent {
+    display: none;
+}
+
+p {
+    margin: 10px 0px;
+}
+
+.thing.linkflair.link.self {
+    border-bottom: 1px dotted #777;
+    margin: 10px 0;
+    padding: 0 10px;
+}
+
+.flat-list.buttons {
+    margin: 0;
+    padding: 0;
+}
+
+.entry .flat-list.buttons > .first {
+    float: left;
+    text-align: left;
+    color: #777;
+    font-size: 0.8em;
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+.commentarea .flat-list.buttons > .first {
+    display: none;
+}
+
+.entry .flat-list.buttons > .first a {
+    color: #777;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.child {
+    border-top: 1px dotted #777;
+    margin: 5px 0;
+    padding-left: 10px;
+    font-size: .9em;
+}
+.child .entry.unvoted {
+    border-left: 1px dotted #777;
+    padding-left: 5px;
+}
+.child p {
+    margin: 5px 0;
+}
+
+.rank {
+    float: left;
+    margin-right: 10px;
+}
+
+.entry .title {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+a {
+    color: #000000;
+    font-weight: bold;
+}
+.title a {
+    margin: 0;
+}
+
+.dropdown.lightdrop,
+.drop-choices.lightdrop {
+    display: inline-block;
+}
+
+.entry.unvoted .expando.expando-uninitialized {
+    clear: both;
+}
+
+.tabmenu {
+    border-bottom: 1px dotted #777;
+    margin: 20px 0 10px;
+    padding: 0 0 20px;
+    text-align: center;
+}
+
+.tabmenu > li {
+    display: inline-block;
+    margin: 0 10px;
+    text-transform: capitalize;
+}
+
+.tabmenu > li.selected a {
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.menuarea a {
+    padding: 0 5px;
+}
+
+.thing:not(.comment) .tagline {
+    color: #777;
+    font-size: 0.8em;
+    text-align: right;
+    float: right;
+    margin: 0 0 10px 0;
+}
+.thing .tagline a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.thing.comment .tagline {
+    color: #777;
+    font-size: 0.9em;
+    text-align: left;
+    margin-left: 0;
+}
+
+.menuarea {
+    border-bottom: 1px dotted #777;
+    padding-bottom: 10px;
+    font-size: .9em;
+    text-align: center;
+}
+
+#mainUrl {
+    margin: 20px;
+    text-align: center;
+}
+
+.clearleft {
+    clear: both;
+}
