@@ -1,2 +1,2 @@
 # reddit-writing-prompts
-A web page that's reading /r/WritingPrompts and shows it in a readable format for eInk devices.
+A web page that reads /r/WritingPrompts and shows it in a readable format for eInk devices.
