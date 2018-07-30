@@ -8,7 +8,7 @@ A web page that reads /r/WritingPrompts and shows it in a readable format for eI
  - Get the required reddit page
  - Strip it of a few useless parts
  - Replace all the links so that they'll be passed through the custom parser if clicked
- - Show the page with our custom CSS
+ - Show the page with custom CSS
 
 #### Privacy
 
