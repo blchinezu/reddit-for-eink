@@ -18,7 +18,7 @@ You won't be able to login, comment and such things so you shouldn't worry about
 
 This will work with other subreddits too but there will probably be glitches. That's because I've made it primarly for /r/WritingPrompts. It shouldn't be difficult to adapt it for other subreddits though. Most of the changes would be in the CSS file.
 
-### Main page screenshots:
+### Comparison screenshots:
 
 ![Main page screenshot - before & after](https://raw.githubusercontent.com/blchinezu/eink-reddit-writing-prompts/master/images/dash-screen.png)
 
