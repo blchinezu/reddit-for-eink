@@ -24,7 +24,7 @@ This will work with other subreddits too but there will probably be glitches. Th
 
 ![Story page screenshot - before & after](https://raw.githubusercontent.com/blchinezu/eink-reddit-writing-prompts/master/images/story-screen.png)
 
-### Actual pictures from a Kobo Aura One:
+### Using it with Kobo Aura One:
 
 ![Main page picture - Kobo Aura One](https://raw.githubusercontent.com/blchinezu/eink-reddit-writing-prompts/master/images/dash-picture.png)
 
