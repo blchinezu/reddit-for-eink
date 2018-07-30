@@ -9,7 +9,7 @@ A web page that reads /r/WritingPrompts and shows it in a readable format for eI
 
 ![Story page screenshot - before & after](https://raw.githubusercontent.com/blchinezu/eink-reddit-writing-prompts/master/images/story-screen.png)
 
-### Actual pictures:
+### Actual pictures from a Kobo Aura One:
 
 ![Main page picture - Kobo Aura One](https://raw.githubusercontent.com/blchinezu/eink-reddit-writing-prompts/master/images/dash-picture.png)
 
