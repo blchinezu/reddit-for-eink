@@ -24,14 +24,14 @@ You won't be able to login, comment and such things so you shouldn't worry about
 
 ### Comparison screenshots:
 
-![Main page screenshot - before & after](https://raw.githubusercontent.com/blchinezu/eink-reddit-writing-prompts/master/images/dash-screen.png)
+![Main page screenshot - before & after](https://raw.githubusercontent.com/blchinezu/reddit-for-eink/master/images/dash-screen.png)
 
-![Story page screenshot - before & after](https://raw.githubusercontent.com/blchinezu/eink-reddit-writing-prompts/master/images/story-screen.png)
+![Story page screenshot - before & after](https://raw.githubusercontent.com/blchinezu/reddit-for-eink/master/images/story-screen.png)
 
 --------------------------------------------------------------------------------
 
 ### Using it with Kobo Aura One (older version):
 
-![Main page picture - Kobo Aura One](https://raw.githubusercontent.com/blchinezu/eink-reddit-writing-prompts/master/images/dash-picture.png)
+![Main page picture - Kobo Aura One](https://raw.githubusercontent.com/blchinezu/reddit-for-eink/master/images/dash-picture.png)
 
-![Story page picture - Kobo Aura One](https://raw.githubusercontent.com/blchinezu/eink-reddit-writing-prompts/master/images/story-picture.png)
+![Story page picture - Kobo Aura One](https://raw.githubusercontent.com/blchinezu/reddit-for-eink/master/images/story-picture.png)
